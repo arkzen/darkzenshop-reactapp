@@ -1,3 +1,9 @@
+#Darkzen Shop React App
+
+[Live site link](https://darkzenshop.netlify.app/)
+
+<img src="https://mathstore-application.s3.ap-southeast-2.amazonaws.com/ss/homepage.JPG" width="600"> <img src="https://mathstore-application.s3.ap-southeast-2.amazonaws.com/ss/cart.JPG" width="600">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
